@@ -1,0 +1,193 @@
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.EmployeeMenu.resources
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmPayslip.resources
+C:\Users\samsung\source\repos\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojResolveAssemblyReference.cache
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.Cache
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\mscorlib.dll
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\normidna.nlp
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfc.nlp
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfd.nlp
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfkc.nlp
+C:\Users\Rosabel\Desktop\THESIS SYSTEM\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfkd.nlp
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+E:\THESIS SYSTEM1\SYSTEM\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmCashAdvance.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRequestLeave.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojResolveAssemblyReference.cache
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmCashAdvance.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRequestLeave.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.Cache
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\mscorlib.dll
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\normidna.nlp
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfc.nlp
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfd.nlp
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfkc.nlp
+C:\Users\Rosabel\Desktop\PMSv3.1.0\PMSv3.1.0\bin\Debug\normnfkd.nlp
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmCashAdvance.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRequestLeave.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmCashAdvance.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRequestLeave.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+H:\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+H:\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+H:\New folder\BOBOSIREINERATDAVE\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.Cache
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\mscorlib.dll
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\normidna.nlp
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\normnfc.nlp
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\normnfd.nlp
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\normnfkc.nlp
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\normnfkd.nlp
+C:\Users\Rosabel\Desktop\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojResolveAssemblyReference.cache
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\03.14.19\THESIS 3.12.19\BOBOSIALEC\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\03.19.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\samsung\Desktop\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe.config
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\bin\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmMenu.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmInformation.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmLogin.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmManualLogin.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.frmRecord.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3._1._0.Properties.Resources.resources
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.GenerateResource.cache
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csproj.CoreCompileInputs.cache
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.exe
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.pdb
+C:\Users\lilya\Desktop\PMS.3.22.19\03.22.19\PMSv3.1.0\obj\Debug\PMSv3.1.0.csprojAssemblyReference.cache
